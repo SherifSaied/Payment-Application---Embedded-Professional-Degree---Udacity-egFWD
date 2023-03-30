@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1661361964 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\app\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"App.h"
+
+1661363969 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Card.h"
+
+1661361908 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\card\card.h
+
+1661369063 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Server.h"
+
+1661368146 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Terminal.h"
+
+1661193446 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661363969 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\terminal\terminal.h
+	"../Card/Card.h"
+
+1661368146 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\server\server.h
+	<stdlib.h>
+	"../Terminal/Terminal.h"
+
+1661357636 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\ittcodeblocks 22-8-2022\paymentapp\app\app.h
+	<stdlib.h>
+	"../Server/Server.h"
+
+1662108309 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Card.h"
+
+1661361908 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\card\card.h
+
+1661368146 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Terminal.h"
+
+1661363969 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\terminal\terminal.h
+	"../Card/Card.h"
+
+1662113781 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\app\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"App.h"
+
+1661357636 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\app\app.h
+	<stdlib.h>
+	"../Server/Server.h"
+
+1661368146 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\server\server.h
+	<stdlib.h>
+	"../Terminal/Terminal.h"
+
+1662113773 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\final payment app file\paymentapp\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Server.h"
+
+1662315451 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Card.h"
+
+1661361908 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\card\card.h
+
+1662398405 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Terminal.h"
+
+1661363969 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\terminal\terminal.h
+	"../Card/Card.h"
+
+1662485073 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Server.h"
+
+1662325899 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\server\server.h
+	<stdlib.h>
+	"../Terminal/Terminal.h"
+
+1662485488 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\app\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"App.h"
+
+1661357636 f:\courses with work\programming\embedded and iot\fwd\embedded professional\project\paymentapp 4-9-2022\app\app.h
+	<stdlib.h>
+	"../Server/Server.h"
+
+1664214979 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\app\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"App.h"
+
+1661357636 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\app\app.h
+	<stdlib.h>
+	"../Server/Server.h"
+
+1662325899 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\server\server.h
+	<stdlib.h>
+	"../Terminal/Terminal.h"
+
+1661363969 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\terminal\terminal.h
+	"../Card/Card.h"
+
+1661361908 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\card\card.h
+
+1662315451 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Card.h"
+
+1662398405 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Terminal.h"
+
+1664214210 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\paymentapp 4-9-2022\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Server.h"
+
+1664214979 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\app\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"App.h"
+
+1661357636 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\app\app.h
+	<stdlib.h>
+	"../Server/Server.h"
+
+1662325899 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\server\server.h
+	<stdlib.h>
+	"../Terminal/Terminal.h"
+
+1661363969 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\terminal\terminal.h
+	"../Card/Card.h"
+
+1661361908 f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\card\card.h
+
+1662315451 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Card.h"
+
+1664214210 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Server.h"
+
+1662398405 source:f:\courses with work\programming\embedded and iot\fwd\embedded professional\projects\project.1-c payment application-codeblocks\final payment app 26-9-2022\paymentapp 4-9-2022\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Terminal.h"
+
